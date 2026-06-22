@@ -1,0 +1,11 @@
+{
+    "name": "semilore/productcatalogtask",
+    "description": "product",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Semilore\\Productcatalogtask\\": "src/"
+        }
+    },
+    "require": {}
+}
