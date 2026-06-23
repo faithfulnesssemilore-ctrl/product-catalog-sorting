@@ -55,6 +55,8 @@ bash
 git clone  https://github.com/faithfulnesssemilore-ctrl/product-catalog-sorting.git
 cd product-catalog-sorting
 composer install
+composer require --dev phpunit/phpunit
+
 
 ## Archtecure design
 
